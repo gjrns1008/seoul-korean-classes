@@ -1,0 +1,39 @@
+[
+ {
+  "tag": "공공기관 안내",
+  "title": "서울 지역 한국어 무료교육 기관",
+  "text": "정부 외국인서비스 페이지는 서울글로벌센터, 한국이주노동자복지회, 서울외국인노동자센터 등을 학습 기관으로 소개합니다. 개강 일정·대상·수강료는 기관마다 다르므로 문의 후 확인하세요.",
+  "links": [
+   {
+    "label": "정부24 한국어 무료교육 안내",
+    "url": "https://foreigner.gov.kr/contents/foreignerContents?htmlNo=m010401"
+   }
+  ]
+ },
+ {
+  "tag": "온라인",
+  "title": "누리-세종학당",
+  "text": "한국어 학습 플랫폼. 한국어·영어·중국어·스페인어 지원 정보가 정부 안내에 등재되어 있습니다.",
+  "links": [
+   {
+    "label": "누리-세종학당 열기",
+    "url": "https://nuri.iksi.or.kr/front/main/main.do"
+   }
+  ]
+ },
+ {
+  "tag": "온라인",
+  "title": "EBS 두리안 · 고려사이버대",
+  "text": "EBS 두리안은 한국어·영어·중국어·베트남어 지원, 고려사이버대학교 한국어 과정은 한국어·영어·중국어·일본어·스페인어 안내가 있습니다.",
+  "links": [
+   {
+    "label": "EBS 두리안",
+    "url": "https://www.ebs.co.kr/durian/kr/course"
+   },
+   {
+    "label": "고려사이버대학교",
+    "url": "http://korean.cuk.edu/"
+   }
+  ]
+ }
+]
